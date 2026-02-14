@@ -2,7 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, add a new file called ".env.local" and add this variable: NEXT_PUBLIC_ANTHROPIC_API_KEY=your_key_here
+
+
+Second, run the development server:
 
 ```bash
 npm run dev
